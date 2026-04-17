@@ -5,7 +5,7 @@ export default function SuccessPage({
 }) {
   return (
     <div>
-      <h1>Login Success ✅</h1>
+      <h1>Login Success </h1>
       <p>Token: {searchParams.token}</p>
     </div>
   );
